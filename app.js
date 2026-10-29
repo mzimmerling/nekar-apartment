@@ -179,7 +179,7 @@
   const email = (window.APARTMENT_CONFIG?.contactEmail || '').trim();
   if (/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
     const link = document.getElementById('email-link');
-    const subject = localize('Heidelberg apartment · February–July 2027', 'Wohnung in Heidelberg · Februar–Juli 2027');
+    const subject = localize('Heidelberg apartment · February–August 2027', 'Wohnung in Heidelberg · Februar–August 2027');
     link.href = `mailto:${email}?subject=${encodeURIComponent(subject)}`;
     const arrow = document.createElement('span');
     arrow.textContent = '↗';

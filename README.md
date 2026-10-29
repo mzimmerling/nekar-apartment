@@ -1,7 +1,8 @@
 # Heidelberg apartment
 
 Static English/German website for a furnished family sublet in Heidelberg,
-1 February to 31 July 2027.
+1 February to 31 August 2027. Stays of four to seven months are possible within
+this period; longer stays are preferred.
 
 Intended GitHub Pages address:
 https://mzimmerling.github.io/nekar-apartment/
